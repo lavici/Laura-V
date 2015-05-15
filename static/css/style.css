@@ -1,0 +1,44 @@
+ body {
+    background: url(http://i.imgur.com/kQzPA42.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 100%;
+    padding-left: 15%;
+    padding-right: 15%;
+    padding-bottom: 60px;
+  }
+    h1, h2, h3, h4, h5, h6 {
+    font-family: 'Corben', Georgia, Times, serif;
+    }
+    p, div {
+    font-family: 'Nobile', Helvetica, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+  }
+
+  p{
+    text-align: left;
+  }
+  h1 { 
+  text-shadow: 1px 1px 1px #ccc;
+  } 
+  img{
+    height: 25%;
+    width: 25%;
+  }
+  table, th, td {
+    border: 1px solid black;
+  }
+  td {
+    padding: 10px;
+    background-color: white;
+    opacity: 0.6;
+
+  }
+
+  th {
+    background-color: white;
+    opacity: 0.8;
+    }
